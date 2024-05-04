@@ -1,8 +1,9 @@
 import Link from 'next/link';
 
-import { Background } from '../components/background/Background';
-import { Section } from '../components/layout/Section';
-import { NavbarTwoColumns } from '../components/navigation/NavbarTwoColumns';
+import { Background } from '@/components/background/Background';
+import { Section } from '@/components/layout/Section';
+import { NavbarTwoColumns } from '@/components/navigation/NavbarTwoColumns';
+
 import { Logo } from './Logo';
 
 const Hero = () => (
